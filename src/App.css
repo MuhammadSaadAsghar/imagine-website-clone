@@ -1,38 +1,107 @@
-.App {
+/* First level dropdown hover */
+.navbar .dropdown:hover > .dropdown-menu {
+  display: block;
+}
+body {
+  overflow-x: hidden;
+}
+
+/* Submenu parent */
+.dropdown-submenu {
+  position: relative;
+}
+
+/* Submenu hide by default */
+.dropdown-submenu > .dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 100%;        /* 🔥 SIDE ME KHULNE KA MAIN RULE */
+  margin-left: 0;
+  min-width: 180px;
+  z-index: 1000;
+}
+
+/* Show submenu on hover */
+.dropdown-submenu:hover > .dropdown-menu {
+  display: block;
+}
+
+/* Prevent navbar clipping */
+.navbar {
+  overflow: visible;
+}
+.site-navbar .site-navigation .site-menu > li > a {
+    padding: 15px 20px;
+    color: #000;
+    display: inline-block;
+    text-decoration: none !important;
+}
+.btn.btn-primary:hover {
+top: -2px;
+
+}
+.btn.btn-primary {
+  position: relative;
+  border-radius: 30px;
+  font-size: 16px;
+  padding: 10px 30px;
+  background: #4285f4;
+  border-color:#4285f4 ;
+  border-width: 2px;
+  top: 0;
+  transition: .3s all ease;
+      box-shadow: 0 4px 20px -5px rgba(66, 133, 244, 0.4);
+  color: #fff;
+}
+.btn:hover,.btn:active,.btn:focus{
+  outline: none;
+}
+.mb-2{
+  margin-top: 0.5rem !important;
+}
+.mb-2{
+  margin-right: 1
+  0.5rem !important;
+}
+.btn{
+  display: inline-block;
+  font-weight: 400;
   text-align: center;
+  vertical-align: middle;
+  border: 1px solid transparent;
+  line-height: 1.5;
+}
+.site-blocks-cover h1 {
+    font-size: 3.5rem;
+    color: #000;
+    font-weight: 900;
+}
+h1 {
+    font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.hero-text h1 {
+  margin-top: -15px;
+}
+.col-lg-6 {
+  padding-right: 2rem; /* right side se thodi space for image */
+}
+.col-lg-6 {
+  padding-right: 2rem; /* right side se thodi space for image */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.section-title{
+  color: #000;
+  font-size: 40px;
+  font-weight: 900;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+,lead{
+  font-size: 1.25rem;
+  font-weight: 400;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-bottom: 1rem;
 }
