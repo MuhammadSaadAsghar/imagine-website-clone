@@ -1,0 +1,57 @@
+.Team-section{
+    padding-top:80px ;
+    padding-bottom:80px ;
+}
+.Team-heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Team-h1 h1{
+font-size: 40px;
+font-weight: 900;
+color: #000;
+}
+.Team-p p{
+    width: 640px;
+    font-size: 1.25rem;
+    font-weight: 300;
+    text-align: center;
+    color: gray;
+}
+.Team-person{
+    width: 360px; 
+    height: 560px; 
+
+}
+.Team-image{
+    position: relative;
+}
+.team-img{
+    width: 360px;
+    height: 360px;
+    background-color: gray;
+    margin-bottom: 0%;
+}
+.team-img img{
+    width: 360px;
+    height: 360px;
+}
+.img-social{
+    position: absolute;
+    bottom: 0%;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+width: 100%;
+background-color: #4285f4;
+padding-bottom: 10px;
+padding-top: 10px;
+transform: translateY(100%);
+    transition: .3s all ease;
+    left: 0%;
+
+}
+.img-social i{
+    color: white;
+}

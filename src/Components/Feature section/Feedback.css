@@ -32,6 +32,7 @@ object-fit: cover;
     border: 1px solid #eee;
     padding: 10px;
     border-left: 10px solid #4285f4 ;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .card-content{
     display: flex;
