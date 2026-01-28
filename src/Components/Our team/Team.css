@@ -19,13 +19,25 @@ color: #000;
     text-align: center;
     color: gray;
 }
+.Team-card{
+    margin-top: 48px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+}
 .Team-person{
     width: 360px; 
     height: 560px; 
+    margin-bottom: 48px;
 
 }
-.Team-image{
+.Team-person .Team-image{
     position: relative;
+    text-align: center;
+    overflow: hidden;
+    margin-bottom: 30px;
 }
 .team-img{
     width: 360px;
@@ -52,6 +64,32 @@ transform: translateY(100%);
     left: 0%;
 
 }
+.Team-person:hover .img-social{
+    transform: translateY(0%);
+}
 .img-social i{
     color: white;
+}
+.card-h2{
+    font-size: 18px;
+    color: #000;
+    font-weight: 500;
+    margin-bottom: 8px;
+
+}
+.card-title{
+    display: block;
+    color: #4285f4;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 12px;
+    margin-bottom: 16px;
+}
+
+.card-p1 {
+    line-height: 1.7;
+    color: gray;
+    font-weight: 400;
+    font-size: 1rem;
 }
