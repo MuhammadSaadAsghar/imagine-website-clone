@@ -6,20 +6,19 @@ import Features from './Components/Feature section/Features';
 import Feedback from './Components/Feature section/Feedback';
 import About from './Components/About us/About';
 import Team from './Components/Our team/Team';
+import Reviews from './Components/Testimonails/Reviews';
 
 
 function App() {
   return (
   <>  
     <Navbar/>
-
-
     <Hero/> 
   <Features/>
   <Feedback/>
   <About/>
   <Team/>
-  
+  <Reviews/>
 
 
    </>

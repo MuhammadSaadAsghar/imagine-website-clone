@@ -1,0 +1,30 @@
+.Reviews{
+    background-color:  #f6f6f6;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.Reviews-h1{
+    margin-bottom: 48px;
+}
+.Testmonials-img img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.Testmonials-content{
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+.Testmonials-p1{
+    font-size: 1.5rem;
+    font-style: italic;
+    color: gray;
+    margin: 0 0 1rem;
+}
+.Testmonials-nam strong{
+    font-weight: bolder;
+    color: #000;
+}

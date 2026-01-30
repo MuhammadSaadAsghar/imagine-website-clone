@@ -13,7 +13,7 @@
 .About-heading h2{
    font-size: 40px;
    font-weight: 900;
-
+font-family:var(--font-primary);
 
 } 
 .about-content{

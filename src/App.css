@@ -1,7 +1,5 @@
 /* First level dropdown hover */
-body {
-  font-family: var(--font-primary);
-}
+
 
 .navbar .dropdown:hover > .dropdown-menu {
   display: block;
@@ -55,7 +53,7 @@ top: -2px;
   border-width: 2px;
   top: 0;
   transition: .3s all ease;
-      box-shadow: 0 4px 20px -5px rgba(66, 133, 244, 0.4);
+ box-shadow: 0 4px 20px -5px rgba(66, 133, 244, 0.4);
   color: #fff;
 }
 .btn:hover,.btn:active,.btn:focus{
@@ -63,11 +61,10 @@ top: -2px;
 }
 .mb-2{
   margin-top: 0.5rem !important;
+  margin-right: 0.5rem !important;
 }
-.mb-2{
-  margin-right: 1
-  0.5rem !important;
-}
+
+
 .btn{
   display: inline-block;
   font-weight: 400;
@@ -90,16 +87,14 @@ h1 {
 .col-lg-6 {
   padding-right: 2rem; /* right side se thodi space for image */
 }
-.col-lg-6 {
-  padding-right: 2rem; /* right side se thodi space for image */
-}
+
 
 .section-title{
   color: #000;
   font-size: 40px;
   font-weight: 900;
 }
-,lead{
+.lead{
   font-size: 1.25rem;
   font-weight: 400;
   display: block;
