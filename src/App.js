@@ -7,6 +7,7 @@ import Feedback from './Components/Feature section/Feedback';
 import About from './Components/About us/About';
 import Team from './Components/Our team/Team';
 import Reviews from './Components/Testimonails/Reviews';
+import Blog from './Components/Blogs/Blog';
 
 
 function App() {
@@ -19,6 +20,8 @@ function App() {
   <About/>
   <Team/>
   <Reviews/>
+  <Blog/>
+  
 
 
    </>

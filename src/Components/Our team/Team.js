@@ -26,36 +26,13 @@ const Team = () => {
               </figure>
               <figcaption className="img-social">
                 <a href="#">
-                  <i class="fa-brands fa-facebook-f"></i>
+                  <i className="fa-brands fa-facebook-f"></i>
                 </a>
                 <a href="#">
-                  <i class="fa-brands fa-twitter"></i>
+                  <i className="fa-brands fa-twitter"></i>
                 </a>
                 <a href="#">
-                  <i class="fa-brands fa-instagram"></i>
-                </a>
-              </figcaption>
-            </div>
-            <div className="card-name">
-              <h2 className="card-h2">Rao Saad</h2>
-              <span className="card-title">presedent</span>
-              <p className="card-p1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum excepturi corporis qui doloribus perspiciatis ipsa modi accusantium repellat.</p>
-            </div>
-          </div>
-          <div className="Team-person">
-            <div className="Team-image">
-              <figure className="team-img">
-                <img src={person} alt="" />
-              </figure>
-              <figcaption className="img-social">
-                <a href="#">
-                  <i class="fa-brands fa-facebook-f"></i>
-                </a>
-                <a href="#">
-                  <i class="fa-brands fa-twitter"></i>
-                </a>
-                <a href="#">
-                  <i class="fa-brands fa-instagram"></i>
+                  <i className="fa-brands fa-instagram"></i>
                 </a>
               </figcaption>
             </div>
@@ -72,36 +49,13 @@ const Team = () => {
               </figure>
               <figcaption className="img-social">
                 <a href="#">
-                  <i class="fa-brands fa-facebook-f"></i>
+                  <i className="fa-brands fa-facebook-f"></i>
                 </a>
                 <a href="#">
-                  <i class="fa-brands fa-twitter"></i>
+                  <i className="fa-brands fa-twitter"></i>
                 </a>
                 <a href="#">
-                  <i class="fa-brands fa-instagram"></i>
-                </a>
-              </figcaption>
-            </div>
-            <div className="card-name">
-              <h2 className="card-h2">Rao Saad</h2>
-              <span className="card-title">presedent</span>
-              <p className="card-p1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum excepturi corporis qui doloribus perspiciatis ipsa modi accusantium repellat.</p>
-            </div>
-          </div>
-          <div className="Team-person">
-            <div className="Team-image">
-              <figure className="team-img">
-                <img src={person} alt="" />
-              </figure>
-              <figcaption className="img-social">
-                <a href="#">
-                  <i class="fa-brands fa-facebook-f"></i>
-                </a>
-                <a href="#">
-                  <i class="fa-brands fa-twitter"></i>
-                </a>
-                <a href="#">
-                  <i class="fa-brands fa-instagram"></i>
+                  <i className="fa-brands fa-instagram"></i>
                 </a>
               </figcaption>
             </div>
@@ -118,13 +72,13 @@ const Team = () => {
               </figure>
               <figcaption className="img-social">
                 <a href="#">
-                  <i class="fa-brands fa-facebook-f"></i>
+                  <i className="fa-brands fa-facebook-f"></i>
                 </a>
                 <a href="#">
-                  <i class="fa-brands fa-twitter"></i>
+                  <i className="fa-brands fa-twitter"></i>
                 </a>
                 <a href="#">
-                  <i class="fa-brands fa-instagram"></i>
+                  <i className="fa-brands fa-instagram"></i>
                 </a>
               </figcaption>
             </div>
@@ -141,13 +95,59 @@ const Team = () => {
               </figure>
               <figcaption className="img-social">
                 <a href="#">
-                  <i class="fa-brands fa-facebook-f"></i>
+                  <i className="fa-brands fa-facebook-f"></i>
                 </a>
                 <a href="#">
-                  <i class="fa-brands fa-twitter"></i>
+                  <i className="fa-brands fa-twitter"></i>
                 </a>
                 <a href="#">
-                  <i class="fa-brands fa-instagram"></i>
+                  <i className="fa-brands fa-instagram"></i>
+                </a>
+              </figcaption>
+            </div>
+            <div className="card-name">
+              <h2 className="card-h2">Rao Saad</h2>
+              <span className="card-title">presedent</span>
+              <p className="card-p1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum excepturi corporis qui doloribus perspiciatis ipsa modi accusantium repellat.</p>
+            </div>
+          </div>
+          <div className="Team-person">
+            <div className="Team-image">
+              <figure className="team-img">
+                <img src={person} alt="" />
+              </figure>
+              <figcaption className="img-social">
+                <a href="#">
+                  <i className="fa-brands fa-facebook-f"></i>
+                </a>
+                <a href="#">
+                  <i className="fa-brands fa-twitter"></i>
+                </a>
+                <a href="#">
+                  <i className="fa-brands fa-instagram"></i>
+                </a>
+              </figcaption>
+            </div>
+            <div className="card-name">
+              <h2 className="card-h2">Rao Saad</h2>
+              <span className="card-title">presedent</span>
+              <p className="card-p1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum excepturi corporis qui doloribus perspiciatis ipsa modi accusantium repellat.</p>
+            </div>
+          </div>
+          <div className="Team-person">
+            <div className="Team-image">
+              <figure className="team-img">
+                <img src={person} alt="" />
+              </figure>
+              <figcaption className="img-social">
+                <a href="#">
+                  <i className="fa-brands fa-facebook-f"></i>
+                </a>
+                <a href="#">
+                  <i className="fa-brands fa-twitter"></i>
+                </a>
+                <a href="#">
+                  <i className="fa-brands fa-instagram"></i>
                 </a>
               </figcaption>
             </div>

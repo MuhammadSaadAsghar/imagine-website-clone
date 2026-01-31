@@ -1,0 +1,33 @@
+.Blog{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.Blog-cards{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.Blog-card{
+    width: 360px; 
+    height: 550px;
+
+}
+.Blog-card img{
+    width: 360px;
+    margin-bottom: 30px;
+}
+.blog-info{
+color: #b3b3b3;
+font-size: 14px;
+}
+.blog-info a{
+    text-decoration: none;
+    color: #0D6EDF;
+    cursor: pointer;
+}
+.blog-p{
+    line-height: 1.7;
+    color: gray;
+    font-weight: 400;
+    font-size: 1rem;
+}

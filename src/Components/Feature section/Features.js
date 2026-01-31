@@ -19,7 +19,7 @@ const Features = () => {
           <div className="card " >
             <div className="card-body text-center one">
               <div className="icon-wrap">
-                <i class="fa-solid fa-arrows-rotate"></i>
+                <i className="fa-solid fa-arrows-rotate"></i>
               </div>
 
               <h5 className="card-title">Marketing Consulting ww</h5>

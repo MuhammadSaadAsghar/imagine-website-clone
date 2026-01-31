@@ -1,12 +1,10 @@
 import React from "react";
-import saad from "../../logo/saad.png";
 // import { a } from "react-router-dom";
 
 const Navbar=()=> {
   return (
     <nav className="navbar fixed-top navbar-expand-lg bg-body-tertiary py-3">
       <div className="container-fluid ">
-        {/* LEFT: Logo + Store Name */}
         <a className="navbar-brand d-flex align-items-center  my-2" href="/">
           
       <h2 style={{fontWeight:"normal", marginLeft:"100px"}}>  imagine </h2>
