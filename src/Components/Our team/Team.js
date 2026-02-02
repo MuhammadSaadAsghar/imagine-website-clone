@@ -25,13 +25,13 @@ const Team = () => {
                 <img src={person} alt="" />
               </figure>
               <figcaption className="img-social">
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-facebook-f"></i>
                 </a>
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-twitter"></i>
                 </a>
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-instagram"></i>
                 </a>
               </figcaption>
@@ -48,13 +48,13 @@ const Team = () => {
                 <img src={person} alt="" />
               </figure>
               <figcaption className="img-social">
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-facebook-f"></i>
                 </a>
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-twitter"></i>
                 </a>
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-instagram"></i>
                 </a>
               </figcaption>
@@ -71,13 +71,13 @@ const Team = () => {
                 <img src={person} alt="" />
               </figure>
               <figcaption className="img-social">
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-facebook-f"></i>
                 </a>
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-twitter"></i>
                 </a>
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-instagram"></i>
                 </a>
               </figcaption>
@@ -94,13 +94,13 @@ const Team = () => {
                 <img src={person} alt="" />
               </figure>
               <figcaption className="img-social">
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-facebook-f"></i>
                 </a>
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-twitter"></i>
                 </a>
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-instagram"></i>
                 </a>
               </figcaption>
@@ -117,13 +117,13 @@ const Team = () => {
                 <img src={person} alt="" />
               </figure>
               <figcaption className="img-social">
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-facebook-f"></i>
                 </a>
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-twitter"></i>
                 </a>
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-instagram"></i>
                 </a>
               </figcaption>
@@ -140,13 +140,13 @@ const Team = () => {
                 <img src={person} alt="" />
               </figure>
               <figcaption className="img-social">
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-facebook-f"></i>
                 </a>
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-twitter"></i>
                 </a>
-                <a href="#">
+                <a href="/">
                   <i className="fa-brands fa-instagram"></i>
                 </a>
               </figcaption>

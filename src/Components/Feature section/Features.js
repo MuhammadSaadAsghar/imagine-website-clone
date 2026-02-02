@@ -29,7 +29,7 @@ const Features = () => {
               </p>
               <p>
                 {" "}
-                <a href="#" className="button">
+                <a href="/" className="button">
                   Learn More
                 </a>
               </p>
@@ -50,7 +50,7 @@ const Features = () => {
               </p>
               <p>
                 {" "}
-                <a href="#" className="button">
+                <a href="/" className="button">
                   Learn More
                 </a>
               </p>
@@ -72,7 +72,7 @@ const Features = () => {
               </p>
               <p>
                 {" "}
-                <a href="#" className="button">
+                <a href="/" className="button">
                   Learn More
                 </a>
               </p>
@@ -94,7 +94,7 @@ const Features = () => {
               </p>
               <p>
                 {" "}
-                <a href="#" className="button">
+                <a href="/" className="button">
                   Learn More
                 </a>
               </p>
@@ -116,7 +116,7 @@ const Features = () => {
               </p>
               <p>
                 {" "}
-                <a href="#" className="button">
+                <a href="/" className="button">
                   Learn More
                 </a>
               </p>
@@ -138,7 +138,7 @@ const Features = () => {
               </p>
               <p>
                 {" "}
-                <a href="#" className="button">
+                <a href="/" className="button">
                   Learn More
                 </a>
               </p>

@@ -8,6 +8,8 @@ import About from './Components/About us/About';
 import Team from './Components/Our team/Team';
 import Reviews from './Components/Testimonails/Reviews';
 import Blog from './Components/Blogs/Blog';
+import Contact from './Components/Contact us/Contact';
+import Footer from './Components/Footer/Footer';
 
 
 function App() {
@@ -21,9 +23,8 @@ function App() {
   <Team/>
   <Reviews/>
   <Blog/>
-  
-
-
+  <Contact/>
+  <Footer/>
    </>
   );
 }

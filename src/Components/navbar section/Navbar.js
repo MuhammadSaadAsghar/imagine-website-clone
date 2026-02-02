@@ -22,18 +22,18 @@ const Navbar=()=> {
         <div className="collapse navbar-collapse "  id="navbarTogglerDemo03">
           <ul className="navbar-nav ms-auto me-5 mb-2 mb-lg-0  gap-4"style={{marginright:"50px"}}>
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Home</a>
+          <a className="nav-link active" aria-current="page" href="/">Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Features</a>
+          <a className="nav-link active" aria-current="page" href="/">Features</a>
         </li>
         <li className="nav-item dropdown ">
-          <a className="nav-link dropdown-toggle" href="#" role=" button" aria-expanded="false">
+          <a className="nav-link dropdown-toggle" href="/" role="button" aria-expanded="false">
             About Us
           </a>
           <ul className="dropdown-menu">
-            <li><a className="dropdown-item" href="#">More Free Templates</a></li>
-            <li><a className="dropdown-item" href="#">OurTeam</a></li>
+            <li><a className="dropdown-item" href="/">More Free Templates</a></li>
+            <li><a className="dropdown-item" href="/">OurTeam</a></li>
            <li className="dropdown-submenu">
   <a className="dropdown-item " href="#more">More Links ▸ </a>
        
@@ -46,9 +46,9 @@ const Navbar=()=> {
             </ul>
             </li>
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Testimonials</a>  </li>
-        <li className="nav-item"><a className="nav-link active" aria-current="page" href="#">Blog</a></li>
-        <li className="nav-item"><a className="nav-link active" aria-current="page" href="#">Contact</a></li>
+          <a className="nav-link active" aria-current="page" href="/">Testimonials</a>  </li>
+        <li className="nav-item"><a className="nav-link active" aria-current="page" href="/">Blog</a></li>
+        <li className="nav-item"><a className="nav-link active" aria-current="page" href="/">Contact</a></li>
         </ul>
         </div>
       </div>

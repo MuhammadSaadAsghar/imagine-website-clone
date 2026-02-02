@@ -25,7 +25,7 @@ const Blog = () => {
             eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit
             quaerat rerum voluptatibus a eius.
           </p>
-          <p className="blog-p2"><a href="">Continue Reading...</a></p>
+          <p className="blog-p2"><a href="/">Continue Reading...</a></p>
         </div>
         <div className="Blog-card">
           <img src={blog} alt="" />
@@ -40,7 +40,7 @@ const Blog = () => {
             eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit
             quaerat rerum voluptatibus a eius.
           </p>
-          <p className="blog-p2"><a href="">Continue Reading...</a></p>
+          <p className="blog-p2"><a href="/">Continue Reading...</a></p>
         </div>
         <div className="Blog-card">
           <img src={blog} alt="" />
