@@ -68,10 +68,15 @@
     cursor: pointer;
     padding: 0;
 }
-.dots span{
-    display: block;
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background: #dee2e6;
+.dots span {
+  display: block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #dee2e6;
+  transition: background 0.3s;
+}
+
+.dots.active span {
+  background: #2d94fc;
 }

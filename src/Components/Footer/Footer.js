@@ -15,7 +15,8 @@ const Footer = () => {
           <a href="/">
             <i class="fa-brands fa-instagram"></i>
           </a>
-          <a href="/">
+          <a   href="https://www.linkedin.com/in/muhammad-saad-asghar-831202392" 
+              target="_blank" >
             <i class="fa-brands fa-linkedin"></i>
           </a>
           <a href="/">
